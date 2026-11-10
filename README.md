@@ -12,6 +12,13 @@ Buscamos generar conocimiento, experiencias didácticas, procedimientos técnico
 
 Desarrollar y evaluar metodologías educativas, técnicas y de seguridad para el aprovechamiento de sistemas robóticos industriales en la educación superior, mediante investigaciones individuales que puedan articularse posteriormente en proyectos colegiados.
 
+## Líneas de investigación y ejes
+
+- **Líneas de investigación:** **PENDIENTES POR DEFINIR**
+- **Ejes:** **PENDIENTES POR DEFINIR**
+
+Las propuestas de esta presentación son ideas para discusión; no constituyen líneas de investigación ni ejes acordados.
+
 ## Propuestas individuales
 
 | Integrante | Enfoque | Documento |
@@ -26,7 +33,7 @@ Desarrollar y evaluar metodologías educativas, técnicas y de seguridad para el
 
 ## Participación propuesta de la carrera de Ventas
 
-**Línea propuesta: mercadotecnia y comercialización de capacitaciones en robótica industrial.**
+**Posible aportación de Ventas: mercadotecnia y comercialización de capacitaciones en robótica industrial.**
 
 Se propone integrar a docentes y estudiantes de Ventas para relacionar la oferta técnica del grupo con las necesidades de formación de las empresas.
 
