@@ -20,6 +20,7 @@ Desarrollar y evaluar metodologías educativas, técnicas y de seguridad para el
 | Dr. Fernando Meraz | Diagnóstico, rehabilitación y mantenimiento | [Leer propuesta](propuestas/02-fernando-meraz.md) |
 | Ing. Juan Martínez Marroquín | Gestión de riesgos y seguridad industrial | [Leer propuesta](propuestas/03-juan-marroquin.md) |
 | Ing. Alfredo Barrón (Hassan) | Enseñanza de operación y programación con robots físicos | [Leer propuesta](propuestas/04-alfredo-barron.md) |
+| Lic. Brenda Naranjo (participación propuesta) | Plan de mercadotecnia y vinculación empresarial para ofrecer capacitación a empresas | [Leer propuesta](propuestas/05-brenda-naranjo.md) |
 
 **[Consultar la propuesta de trabajo colegiado](docs/propuesta-trabajo-colegiado.md)**
 
