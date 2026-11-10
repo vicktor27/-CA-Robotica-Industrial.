@@ -24,6 +24,20 @@ Desarrollar y evaluar metodologías educativas, técnicas y de seguridad para el
 
 **[Consultar la propuesta de trabajo colegiado](docs/propuesta-trabajo-colegiado.md)**
 
+## Participación propuesta de la carrera de Ventas
+
+**Línea propuesta: mercadotecnia y comercialización de capacitaciones en robótica industrial.**
+
+Se propone integrar a docentes y estudiantes de Ventas para relacionar la oferta técnica del grupo con las necesidades de formación de las empresas.
+
+- Identificar públicos y necesidades de capacitación para orientar el catálogo de cursos.
+- Elaborar propuestas de valor, materiales de presentación y estrategias de promoción.
+- Proponer una ruta de atención y seguimiento a empresas interesadas.
+
+Esta participación podría articularse con la [propuesta de la Lic. Brenda Naranjo](propuestas/05-brenda-naranjo.md), previa revisión y acuerdo con ella y el equipo.
+
+**Referencia del perfil:** [TSU en Ventas · UTLD](https://www.utlagunadurango.edu.mx/general-clean-3).
+
 ## Enfoque de trabajo
 
 1. **Revisión:** cada integrante analiza su propuesta y sugiere ajustes.
